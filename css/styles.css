@@ -1,0 +1,134 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 20px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #00b7c2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+div {
+  background-color: white;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #00b7c2;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+
+/*********************CLASS SELECTORS************/
+.mountain {
+  margin-bottom: 100px;
+  height: 500px;
+}
+
+.foto-lucas {
+  height: 400px;
+  margin: 80px 0 0 0;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.english {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.code {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.web-des {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.middle-container {
+  background-color: white;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px 0 30px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-size: 1.3rem;
+
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 1.1;
+}
+
+.copyright {
+  font-style: italic;
+  color: white;
+}
+
+.hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 15px;
+  width: 10%;
+  margin: 80px auto 80px auto;
+}
+.contact {
+  margin: 50px 50px 50px 50px;
+}
+.invi {
+  visibility: hidden;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
